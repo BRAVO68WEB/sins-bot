@@ -1,0 +1,36 @@
+{
+  "name": "sins-bot",
+  "version": "1.0.0",
+  "description": "A NSFW Discord Bot to fullfil your sins\"",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BRAVO68WEB/sins-bot.git"
+  },
+  "keywords": [
+    "nhentai",
+    "discordjs",
+    "bot",
+    "api"
+  ],
+  "author": "BRAVO68WEB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BRAVO68WEB/sins-bot/issues"
+  },
+  "homepage": "https://github.com/BRAVO68WEB/sins-bot#readme",
+  "dependencies": {
+    "discord-paginationembed": "^2.1.0",
+    "discord.js": "^12.5.3",
+    "discord.js-pagination": "^1.0.3",
+    "dou-api": "^1.1.6",
+    "embed-paginator": "^1.0.2",
+    "nana-api": "^1.1.4",
+    "nhentai-api": "^3.0.2",
+    "nhentai-node-api": "^1.1.2",
+    "nhentai.js-api": "^2.2.2"
+  }
+}
